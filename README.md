@@ -1,0 +1,2 @@
+# Simulation_supermarket
+A supermarket has n cash registers. At the beginning a cash register is opened and then the following strategy is used: every time w customers wait at a cash register, a new cash register is opened (as long as possible). A cash register is closed if no customer is served in m minutes (at least one cash register must remain open).  The aim of the simulation: what is the "optimal" choice of parameters w and m, so that customers do not have to wait too long, but the costs for staffed checkouts do not become too high?
